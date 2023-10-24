@@ -2,3 +2,8 @@ The first line
 The second line
 The third line
 The fourth line
+<<<<<<< HEAD
+=======
+
+I think it's enough
+>>>>>>> 8c129c651c3e489db783621db4ca47a6de930e6f
